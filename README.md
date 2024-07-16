@@ -8,9 +8,5 @@ pkg install git
 
 pkg install python
 
-pkg install requests
-
 git clone https://github.com/kazovskyy/track
-
-python track.py
 ```
