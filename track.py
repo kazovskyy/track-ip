@@ -19,7 +19,7 @@ response = requests.get(url)
 
 if response.status_code == 200:
     os.system("clear")
-    n = colored("Não encontrado :<", "red")
+    n = colored("Não encontrado :(", "red")
     json = response.json()
     
     ip = json.get("ip", n)
