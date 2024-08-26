@@ -8,5 +8,5 @@ pkg install git
 
 pkg install python
 
-git clone https://github.com/kazovskyy/track
+git clone https://github.com/kazovskyy/track-ip
 ```
