@@ -1,5 +1,5 @@
-# track
-Track é uma ferramenta simples para rastrear um endereço ip
+# sobre
+track-ip é uma ferramenta simples para rastrear endereço ip
 # instalação 
 ```
 apt update && apt upgrade -y
