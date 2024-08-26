@@ -1,5 +1,11 @@
 # sobre
 track-ip é uma ferramenta simples para rastrear endereço ip
+# funciona em
+```
+TERMUX [✓]
+KALI LINUX [?]
+WINDOWS *CMD* [❌]
+```
 # instalação 
 ```
 apt update && apt upgrade -y
